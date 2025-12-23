@@ -112,24 +112,6 @@ main:
 | Read String | 8 | $a0 = buffer, $a1 = length | - |
 | Exit | 10 | - | - |
 
-## 📁 Folder Structure
-
-```
-IT4113-Computer-Organization-Practicals/
-│
-├── Day01/
-│   ├── README.md
-│   ├── program1.asm
-│   └── program2.asm
-│
-├── Day02/
-│   ├── README.md
-│   └── ...
-│
-└── Assignments/
-    ├── Assignment01/
-    └── Assignment02/
-```
 
 ## 🎯 Learning Objectives
 
