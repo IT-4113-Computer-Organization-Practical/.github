@@ -132,7 +132,3 @@ Through these practicals, you will:
 - Save your work frequently
 - Follow naming conventions for labels and variables
 - Document register usage in complex programs
-
-## 📜 License
-
-This repository is created as part of the **IT4113: Computer Organization and Architecture** course module and is intended for educational purposes only. All content belongs to the **University of Vavuniya** and its faculty.
